@@ -1,0 +1,15 @@
+.searchBox__input {
+  background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.3)
+  );
+  border: none;
+  width: 60vw;
+  padding: 1rem;
+  margin: 0.5rem;
+  border-radius: 1rem;
+}
+.searchBox__input:focus {
+  outline: none;
+}
